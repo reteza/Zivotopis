@@ -1,0 +1,55 @@
+h1 {color:#F5F5F6;
+    font-size: 40px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {color:#b9b9ba;
+    text-align: center;
+    margin: 0;}
+
+h3{color:#b9b9ba;
+    margin-top: 0px;}
+
+body {
+    font-size: 18px;
+    font-family: ubundu, sans-serif;
+    line-height: 1.5;
+}
+
+header {background-color: #272729;
+margin-top: 0;
+padding: 30px 150px;
+text-align: center;}
+
+.mojefoto{
+    width: 190px;
+    border-radius: 50%;
+    float: left;
+    margin: 0 30px 30px 5px;
+}
+.odkaz { color: #F5F5F6;}
+
+.linkedin, .email {
+    width: 30%;
+}
+.domov, .telefon {
+    width: 30%;
+}
+.box1{
+    padding: 5px 10%;
+    margin-inline: 10%;
+    }
+
+
+.tabulka {margin: 5%;
+color:#F5F5F6;
+text-align: center;}
+
+footer {font-size: 20px;
+background-color: #272729;
+padding: 1%;
+color:#b9b9ba;
+text-align: center;
+font-size: 11px;}
